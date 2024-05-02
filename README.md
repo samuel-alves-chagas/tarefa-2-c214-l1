@@ -1,3 +1,5 @@
+![CI-CD](https://github.com/Inatel-C214/ToDoList/actions/workflows/cicd.yml/badge.svg)
+
 A aplicação é uma casa de câmbio, para executar é necessário ter o Node instalado, depois executar 
 
 ```
